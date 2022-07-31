@@ -1,5 +1,6 @@
 # Practicas_python
-En este repositorio hay ejercicios que iba realizando mientras aprendia a programar con python.:man_student: :muscle: 
+En este repositorio hay ejercicios que iba realizando mientras aprendia a programar con python.:man_student: :muscle: :+1:
+:thumbsup:
 
 ## ISPC. 
 ### Tecnicatura Superior en innovación con tecnologías 4.0. Programación.
